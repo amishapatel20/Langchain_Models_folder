@@ -69,7 +69,6 @@ Extend examples to support RAG (Retrieval-Augmented Generation)
 
 ---
 
-🧑‍💻 Author
 
 Amisha Patel
 📬 GitHub Profile »
