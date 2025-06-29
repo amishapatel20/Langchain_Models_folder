@@ -1,4 +1,6 @@
 from langchain_huggingface import ChatHuggingFace, HuggingFacePipeline
+import os 
+os.environ["HUGGINGFACEHUB_API_TOKEN"] = " "
 
 
 llm = HuggingFacePipeline.from_model_id(
